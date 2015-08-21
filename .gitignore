@@ -1,0 +1,6 @@
+# eclipse specific git ignore
+.project
+.settings/
+
+# other files
+desktop.ini
